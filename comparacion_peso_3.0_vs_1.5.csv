@@ -1,0 +1,9 @@
+variante,metrica,peso_3.0,peso_1.5,delta
+tumor_aware_disc,ssim_tumor,0.4009 ± 0.0023,0.4011 ± 0.0046,0.0001
+tumor_aware_disc,psnr_tumor,16.2145 ± 0.0570,15.9103 ± 0.5831,-0.3042
+tumor_aware_disc,ssim_global,0.8304 ± 0.0112,0.8319 ± 0.0118,0.0015
+tumor_aware_disc,psnr_global,21.4813 ± 0.5281,21.3896 ± 0.7588,-0.0918
+tumor_aware_ssim_freq,ssim_tumor,0.4030 ± 0.0091,0.4039 ± 0.0041,0.0009
+tumor_aware_ssim_freq,psnr_tumor,16.2136 ± 0.1772,15.9475 ± 0.4845,-0.2661
+tumor_aware_ssim_freq,ssim_global,0.8378 ± 0.0049,0.8354 ± 0.0040,-0.0024
+tumor_aware_ssim_freq,psnr_global,21.7993 ± 0.1882,21.5222 ± 0.3075,-0.2771
